@@ -1,0 +1,11 @@
+requests
+python-dotenv
+google-genai
+langgraph
+langchain
+langchain-google-genai
+pandas
+pymupdf
+sentence-transformers
+chromadb
+streamlit
